@@ -1,16 +1,32 @@
-## Hi there 👋
+# NexoraOne Solution
 
-<!--
-**NexoraOneSolution/NexoraOneSolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build. Modernize. Scale.
 
-Here are some ideas to get you started:
+NexoraOne Solution delivers websites, internal platforms, cloud systems, automation workflows, and business software for teams that want reliable execution and long-term support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website
+
+- `https://nexoraonesolution.com`
+
+## Focus Areas
+
+- Web development
+- Cloud and edge platforms
+- Internal business portals
+- Automation and workflow systems
+- Ongoing product maintenance and support
+
+## Featured Repositories
+
+- [DUO-OS](https://github.com/NexoraOneSolution/DUO-OS)
+- [Nexora-One-Solution-Website](https://github.com/NexoraOneSolution/Nexora-One-Solution-Website)
+- [KaaYura-Custom-Portal](https://github.com/NexoraOneSolution/KaaYura-Custom-Portal)
+
+## Contact
+
+- Website: `https://nexoraonesolution.com`
+- Email: `contact@nexoraonesolution.com`
+
+## About This Profile Repo
+
+This repository is the public profile repository for `NexoraOneSolution`, so this `README.md` appears on the GitHub profile.
