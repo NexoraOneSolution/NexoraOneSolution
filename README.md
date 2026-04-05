@@ -16,11 +16,11 @@ NexoraOne Solution delivers websites, internal platforms, cloud systems, automat
 - Automation and workflow systems
 - Ongoing product maintenance and support
 
-## Featured Repositories
+## Project Visibility
 
-- [DUO-OS](https://github.com/NexoraOneSolution/DUO-OS)
-- [Nexora-One-Solution-Website](https://github.com/NexoraOneSolution/Nexora-One-Solution-Website)
-- [KaaYura-Custom-Portal](https://github.com/NexoraOneSolution/KaaYura-Custom-Portal)
+Most client delivery repositories and internal work products are private.
+
+Public profile content is kept minimal while active delivery work stays confidential.
 
 ## Contact
 
