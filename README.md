@@ -1,32 +1,56 @@
-# NexoraOne Solution
+<p align="center">
+  <a href="https://nexoraonesolution.com">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://cdn.nexoraonesolution.com/logos/main/svg/white.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://cdn.nexoraonesolution.com/logos/main/svg/black.svg"
+      />
+      <img
+        src="https://cdn.nexoraonesolution.com/logos/main/svg/black.svg"
+        alt="NexoraOne Solution"
+        width="220"
+      />
+    </picture>
+  </a>
+</p>
 
-Build. Modernize. Scale.
+<h1 align="center">NexoraOne Solution</h1>
 
-NexoraOne Solution delivers websites, internal platforms, cloud systems, automation workflows, and business software for teams that want reliable execution and long-term support.
+<p align="center">
+  <strong>All your tech needs in one place</strong>
+</p>
 
-## Website
+<p align="center">
+  Build. Modernize. Scale.
+</p>
 
-- `https://nexoraonesolution.com`
+NexoraOne Solution helps growing businesses design, build, and manage reliable digital products, cloud infrastructure, and operational systems.
 
-## Focus Areas
+## What We Do
 
-- Web development
-- Cloud and edge platforms
-- Internal business portals
-- Automation and workflow systems
-- Ongoing product maintenance and support
+- Web and app development
+- Cloud and DevOps delivery
+- Data and analytics solutions
+- UI, UX, and brand systems
+- Managed IT support
+- Cybersecurity and compliance
 
-## Project Visibility
-
-Most client delivery repositories and internal work products are private.
-
-Public profile content is kept minimal while active delivery work stays confidential.
-
-## Contact
+## Online
 
 - Website: `https://nexoraonesolution.com`
+- Services: `https://nexoraonesolution.com/services/`
+- Products: `https://nexoraonesolution.com/products/`
+- Contact: `https://nexoraonesolution.com/contact/`
 - Email: `contact@nexoraonesolution.com`
 
-## About This Profile Repo
+## Public Profile Note
 
-This repository is the public profile repository for `NexoraOneSolution`, so this `README.md` appears on the GitHub profile.
+Most client delivery work, internal systems, and active product builds are private. Public repositories here are limited to selected work, shared assets, and profile-facing materials.
+
+## About This Repo
+
+This repository powers the GitHub profile README for `NexoraOneSolution`.
